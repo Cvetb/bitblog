@@ -1,13 +1,7 @@
 # bitblog
-
-![](https://screenshotscdn.firefoxusercontent.com/images/0e2f544a-a38d-4bff-b73c-a75e8feb5cf7.png)
-
-
-![](https://screenshotscdn.firefoxusercontent.com/images/fa018e16-2200-4374-acca-b8edb9a7114e.png)
-
-![](https://screenshotscdn.firefoxusercontent.com/images/a9ae4334-1881-4681-ae68-74148b8c8dd8.png)
-
-
-![](https://screenshotscdn.firefoxusercontent.com/images/034a7fa1-fc43-44dc-92d1-d11fc19b26fd.png)
-
-![](https://screenshotscdn.firefoxusercontent.com/images/db90ec43-bf23-475d-8116-ff4ba11bbd09.png)
+Bit Blog 
+![screenshot-2018-5-2 react app](https://user-images.githubusercontent.com/24230243/39540215-475d9866-4e42-11e8-9035-41ee9604d746.png)
+![screenshot-2018-5-2 react app 1](https://user-images.githubusercontent.com/24230243/39540224-4e6a32a4-4e42-11e8-95f3-d289469f06af.png)
+![screenshot-2018-5-2 react app 2](https://user-images.githubusercontent.com/24230243/39540230-53066dd2-4e42-11e8-87d5-42c618413401.png)
+![screenshot-2018-5-2 react app 3](https://user-images.githubusercontent.com/24230243/39540237-56ec2b62-4e42-11e8-8ac1-9e133dda4d99.png)
+![screenshot-2018-5-2 react app 4](https://user-images.githubusercontent.com/24230243/39540246-5b3439da-4e42-11e8-9f95-b2cfcf0ccadc.png)
